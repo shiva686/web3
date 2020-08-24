@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43b5a309.chunk.css",
+    "main.js": "/static/js/main.a98f9b96.chunk.js",
+    "main.js.map": "/static/js/main.a98f9b96.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ddedc8e7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ddedc8e7.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.7483f329.chunk.js": "/static/js/2.7483f329.chunk.js",
+    "static/js/2.7483f329.chunk.js.map": "/static/js/2.7483f329.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.84056537743f5831f3084c261e01d754.js": "/precache-manifest.84056537743f5831f3084c261e01d754.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.43b5a309.chunk.css.map": "/static/css/main.43b5a309.chunk.css.map",
+    "static/js/2.7483f329.chunk.js.LICENSE.txt": "/static/js/2.7483f329.chunk.js.LICENSE.txt",
+    "static/media/bastei-3728708_1920.jpg": "/static/media/bastei-3728708_1920.98beb9bf.jpg",
+    "static/media/birds-in-flight-5366034_1920.jpg": "/static/media/birds-in-flight-5366034_1920.acc049b6.jpg",
+    "static/media/camera-581126_1920.jpg": "/static/media/camera-581126_1920.764b93b6.jpg",
+    "static/media/dog-5357794_1920.jpg": "/static/media/dog-5357794_1920.304b1d28.jpg",
+    "static/media/drone-1245980_1920.jpg": "/static/media/drone-1245980_1920.b0480319.jpg",
+    "static/media/eye-4559763_1920.jpg": "/static/media/eye-4559763_1920.66f59a4c.jpg",
+    "static/media/lens-3046269_1920.jpg": "/static/media/lens-3046269_1920.08a84bbb.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/monkey-4360298_1920.jpg": "/static/media/monkey-4360298_1920.9451bfc6.jpg",
+    "static/media/photography-1850469_1920.jpg": "/static/media/photography-1850469_1920.d3b83e53.jpg",
+    "static/media/photography-3749383_1920.jpg": "/static/media/photography-3749383_1920.25fd2262.jpg",
+    "static/media/profilepic.jpg": "/static/media/profilepic.1342aaf6.jpg",
+    "static/media/App.scss": "/static/media/woman-407168_1920.dd0ce0d6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddedc8e7.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.7483f329.chunk.js",
+    "static/css/main.43b5a309.chunk.css",
+    "static/js/main.a98f9b96.chunk.js"
+  ]
+}
